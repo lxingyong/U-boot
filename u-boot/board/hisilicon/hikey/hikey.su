@@ -1,0 +1,10 @@
+hikey.c:150:6:hi6220_clk_enable	0	static
+hikey.c:166:6:hi6220_clk_disable	0	static
+hikey.c:181:5:board_usb_init	32	static
+hikey.c:334:5:misc_init_r	0	static
+hikey.c:339:5:board_init	0	static
+hikey.c:383:5:power_init_board	32	static
+hikey.c:393:5:board_mmc_init	0	static
+hikey.c:407:5:dram_init	0	static
+hikey.c:413:5:dram_init_banksize	0	static
+hikey.c:449:6:reset_cpu	0	static
